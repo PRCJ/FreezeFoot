@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "771903942574",
+    "firebase_url": "https://freezefoot-75bc4.firebaseio.com",
+    "project_id": "freezefoot-75bc4",
+    "storage_bucket": "freezefoot-75bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771903942574:android:24fa9b329075083e",
+        "android_client_info": {
+          "package_name": "com.jopel.freezefoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771903942574-8dm8t4ul8nbfvttskjkas82p3uefde9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jopel.freezefoot",
+            "certificate_hash": "6d7fdaf7b478c1cf983e23dc5854129ed6252ba6"
+          }
+        },
+        {
+          "client_id": "771903942574-v9h89dv3hvo17mmc9gq9rjeieinsvhjp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "771903942574-v9h89dv3hvo17mmc9gq9rjeieinsvhjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmleCwOoKqfXiQrTUAmQM4WHW7tzzpaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771903942574-v9h89dv3hvo17mmc9gq9rjeieinsvhjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
